@@ -1,2 +1,2 @@
-# raspberry-pi-minecraft
-My write-up of how to get a Minecraft server up and running on a Raspberry Pi
+# Running Minecraft on a Raspberry Pi
+A repository to house findings, tutorials on setting up, and scripts.
